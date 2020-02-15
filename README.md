@@ -7,7 +7,6 @@ Dalam illustrasi ini data yang akan digunakan adalah data pada folder bixi-montr
 
 ![picture](/img/folder.png)
 
-
 ![picture](/img/csv-cont.png)
 
 ![picture](/img/tabel.png)
