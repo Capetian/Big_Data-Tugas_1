@@ -1,3 +1,9 @@
+Kelas: Big Data
+
+Nama: Raden Bimo Rizki Prayogo
+
+NRP: 0511740000139
+
 # Big Data - Tugas 1
 Dataset yang digunakan adalah Bixi Montreal Bikeshare Data yang tersedia pada link berikut:
 
