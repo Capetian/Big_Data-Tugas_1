@@ -9,7 +9,7 @@ Dalam illustrasi ini data yang akan digunakan adalah data pada folder bixi-montr
 
 ![picture](/img/csv-cont.PNG)
 
-![picture](/img/tabel.PNG)
+![picture](/img/table.PNG)
 
 
 Workflow ini akan melakukan extraksi data dari masing-masing node, kemudian melakukan join untuk membentuk tabel yang menggantikan kode stasiun dengan nama stasiun, yang kemudian akan di insert ke Databse dan disimpan sebagai file .csv.
