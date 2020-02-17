@@ -5,6 +5,7 @@ Nama: Raden Bimo Rizki Prayogo
 NRP: 0511740000139
 
 # Big Data - Tugas 1
+
 ## Business Understanding
 Dataset yang digunakan adalah Bixi Montreal Bikeshare Data yang tersedia pada link berikut:
 
@@ -172,6 +173,11 @@ Untuk menginsert tabel ke DB kita perlu menghubungkan tabel yang diinginkan dan 
 
 
 ![picture](/img/db_writer-res.PNG)
+
+
+## Overview Workflow
+
+![picture](/img/overview.PNG)
 
 
 
