@@ -77,9 +77,11 @@ Node ini digunakan untuk mengektraksi data dari tabel yang di query.
 ![picture](/img/DR-res.PNG)
 
 ## Join Tabel
+![picture](/img/joiner.PNG)
+
 Untuk melakukan join tabel kita perlu menghubungkan data yang ingin di-join ke node joiner dan mencantumkan kolom yang akan digunkan untuk join.
 
-![picture](/img/joiner.PNG)
+![picture](/img/joiner-conf.PNG)
 
 Kita juga bisa memfilter kolom yang diinginkan saat men-join.
 
